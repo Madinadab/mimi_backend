@@ -1,0 +1,24 @@
+
+.container {
+    background-color: rgba(0, 0, 255, 0.637);
+    margin-top: 50px;
+    border-radius: 50px;
+    padding: 50px 150px;
+    width: 50%;
+    color: white;
+}
+.container h2{
+    text-align: center;
+    color: chartreuse !important;
+    text-decoration: underline;
+}
+.gras{margin-left: 75px;
+    background-color: chartreuse;
+    color: black;
+    border-radius: 50px ;
+}
+
+body {
+    background-image: url(./image/ma.jpeg);
+    background-repeat: no-repeat;
+}
